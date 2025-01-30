@@ -82,8 +82,8 @@ def exibir_tema():
     # 3. Impacto da evolução tecnológica nas notas
     st.markdown("**3. Qual o impacto da evolução tecnológica nas notas?**")
     st.write("""
-    Estudos realizados com escolas que adotaram inovações tecnológicas mostraram que **0,22%** dos alunos
-    apresentaram melhoria no desempenho acadêmico, especialmente em disciplinas como Matemática e Ciências,
+    Estudos realizados com escolas que adotaram inovações tecnológicas mostraram um aumento de **0,22%** 
+    do desempenho dos alunos, especialmente em disciplinas como Matemática e Ciências,
     quando usaram recursos tecnológicos interativos e plataformas online para estudos e revisões.
     O impacto varia, entretanto, dependendo da forma como as tecnologias são implementadas e do suporte
     pedagógico oferecido aos professores e alunos.
